@@ -11,7 +11,14 @@ To download the tips listed here, you can clone this repo.
 
 ## Table of Contents
 
+- [Python](#python)
 - [Pandas](#pandas) 
+
+# Python
+| Title | Notebook |
+|------ | :----------: |
+| pydash: The kitchen sink of Python utility libraries for doing "stuff" in a functional way | [🔗](https://github.com/ghimiresunil/Uncovering-Insights-A-Daily-Journey-Through-the-World-of-Data-Science/blob/main/python/pydash.ipynb)|
+
 
 # Pandas
 | Title | Notebook |

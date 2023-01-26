@@ -18,7 +18,7 @@ To download the tips listed here, you can clone this repo.
 | Title | Notebook |
 |------ | :----------: |
 | pydash: The kitchen sink of Python utility libraries for doing "stuff" in a functional way | [🔗](https://github.com/ghimiresunil/Uncovering-Insights-A-Daily-Journey-Through-the-World-of-Data-Science/blob/main/python/pydash.ipynb)|
-
+| Pipe: Write clean python Code | [🔗](https://github.com/ghimiresunil/Uncovering-Insights-A-Daily-Journey-Through-the-World-of-Data-Science/blob/main/python/pipe.ipynb)|
 
 # Pandas
 | Title | Notebook |

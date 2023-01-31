@@ -20,6 +20,7 @@ To download the tips listed here, you can clone this repo.
 | pydash: The kitchen sink of Python utility libraries for doing "stuff" in a functional way | [🔗](https://github.com/ghimiresunil/Uncovering-Insights-A-Daily-Journey-Through-the-World-of-Data-Science/blob/main/python/pydash.ipynb)|
 | Pipe: Write clean python Code | [🔗](https://github.com/ghimiresunil/Uncovering-Insights-A-Daily-Journey-Through-the-World-of-Data-Science/blob/main/python/pipe.ipynb)|
 | How to Use Zip to Manipulate a List of Tuples	| [🔗](https://github.com/ghimiresunil/Uncovering-Insights-A-Daily-Journey-Through-the-World-of-Data-Science/blob/main/python/zip.ipynb)|
+| Python Tricks for Keeping Track of Your Data	| [🔗](https://github.com/ghimiresunil/Uncovering-Insights-A-Daily-Journey-Through-the-World-of-Data-Science/blob/main/python/keep_track.ipynb)|
 
 # Pandas
 | Title | Notebook |

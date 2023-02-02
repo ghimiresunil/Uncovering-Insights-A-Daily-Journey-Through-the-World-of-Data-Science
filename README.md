@@ -13,6 +13,7 @@ To download the tips listed here, you can clone this repo.
 
 - [Python](#python)
 - [Pandas](#pandas) 
+- [Testing](#testing)
 
 # Python
 | Title | Notebook |
@@ -33,3 +34,8 @@ To download the tips listed here, you can clone this repo.
 | Create Pandas DataFrame from Dataclass	| [🔗](hhttps://github.com/ghimiresunil/Uncovering-Insights-A-Daily-Journey-Through-the-World-of-Data-Science/blob/main/pandas/pandas_df_from_dataclass.ipynb)|
 | Introducing FugueSQL — SQL for Pandas, Spark, and Dask DataFrames | [🔗](https://github.com/ghimiresunil/Uncovering-Insights-A-Daily-Journey-Through-the-World-of-Data-Science/blob/main/pandas/fugueSQL.ipynb)|
 | Alter the Datatype of Multiple Columns at Once | [🔗](https://github.com/ghimiresunil/Uncovering-Insights-A-Daily-Journey-Through-the-World-of-Data-Science/blob/main/pandas/datatype_alter.ipynb)|
+
+# Testing
+| Title | Notebook |
+|------ | :----------: |
+| DeepDiff — Recursively Find and Ignore Trivial Differences Using Python	 | [🔗](https://github.com/ghimiresunil/Uncovering-Insights-A-Daily-Journey-Through-the-World-of-Data-Science/blob/main/testing/deepdiff.ipynb)|

@@ -41,6 +41,8 @@ To download the tips listed here, you can clone this repo.
 | Don't Use `time.time()` To Measure Execution Time	| [🔗](https://github.com/ghimiresunil/Uncovering-Insights-A-Daily-Journey-Through-the-World-of-Data-Science/blob/main/python/donot_use_time_dot_time.ipynb)| 
 | Use Slotted Class to Improve Your Python Code | [🔗](https://github.com/ghimiresunil/Uncovering-Insights-A-Daily-Journey-Through-the-World-of-Data-Science/blob/main/python/slotted_class.ipynb)| 
 | Using Dictionaries In Place of If-conditions | [🔗](https://github.com/ghimiresunil/Uncovering-Insights-A-Daily-Journey-Through-the-World-of-Data-Science/blob/main/python/dict_vs_if_else.ipynb)| 
+| Run Python Project Directory as a Script | [🔗](https://github.com/ghimiresunil/Uncovering-Insights-A-Daily-Journey-Through-the-World-of-Data-Science/blob/main/image/import_python_package.png)| 
+|  | [🔗](https://github.com/ghimiresunil/Uncovering-Insights-A-Daily-Journey-Through-the-World-of-Data-Science/blob/main/image/import_your_python_package.png)| 
 
 # Pandas
 | Title | Notebook |

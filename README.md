@@ -22,6 +22,25 @@ To download the tips listed here, you can clone this repo.
 | Pipe: Write clean python Code | [🔗](https://github.com/ghimiresunil/Uncovering-Insights-A-Daily-Journey-Through-the-World-of-Data-Science/blob/main/python/pipe.ipynb)|
 | How to Use Zip to Manipulate a List of Tuples	| [🔗](https://github.com/ghimiresunil/Uncovering-Insights-A-Daily-Journey-Through-the-World-of-Data-Science/blob/main/python/zip.ipynb)|
 | Python Tricks for Keeping Track of Your Data	| [🔗](https://github.com/ghimiresunil/Uncovering-Insights-A-Daily-Journey-Through-the-World-of-Data-Science/blob/main/python/keep_track.ipynb)|
+| The Right Way to Roll Out Library Updates in Python	| [🔗](https://github.com/ghimiresunil/Uncovering-Insights-A-Daily-Journey-Through-the-World-of-Data-Science/blob/main/python/deprecated_warning.ipynb)|
+| F-strings offer greater versatility than commonly perceived| [🔗](https://github.com/ghimiresunil/Uncovering-Insights-A-Daily-Journey-Through-the-World-of-Data-Science/blob/main/python/f_string.ipynb)|
+| Speed Up Your Python Programs with a Simple Change `numba`| [🔗](https://github.com/ghimiresunil/Uncovering-Insights-A-Daily-Journey-Through-the-World-of-Data-Science/blob/main/python/numba.ipynb)|
+| Make Dot Notation More Powerful in Python	| [🔗](https://github.com/ghimiresunil/Uncovering-Insights-A-Daily-Journey-Through-the-World-of-Data-Science/blob/main/python/dot_notation.ipynb)|
+| An Elegant Way To Perform Shutdown Tasks in Python | [🔗](https://github.com/ghimiresunil/Uncovering-Insights-A-Daily-Journey-Through-the-World-of-Data-Science/blob/main/python/shutdown_task.ipynb)|
+| Class Methods: What and when to use? | [🔗](https://github.com/ghimiresunil/Uncovering-Insights-A-Daily-Journey-Through-the-World-of-Data-Science/blob/main/python/data_class.ipynb)|
+| Hide Attributes While Printing A Dataclass Object	| [🔗](https://github.com/ghimiresunil/Uncovering-Insights-A-Daily-Journey-Through-the-World-of-Data-Science/blob/main/python/hide_dataclass_attributes.ipynb)|
+| Simplify Your Functions With Partial Functions | [🔗](https://github.com/ghimiresunil/Uncovering-Insights-A-Daily-Journey-Through-the-World-of-Data-Science/blob/main/python/partial_function.ipynb)|
+| DotMap: A better alternative to python dictionary| [🔗](https://github.com/ghimiresunil/Uncovering-Insights-A-Daily-Journey-Through-the-World-of-Data-Science/blob/main/python/dot_map.ipynb)|
+| Prevent Wild Imports With `all` in Python| [🔗](https://github.com/ghimiresunil/Uncovering-Insights-A-Daily-Journey-Through-the-World-of-Data-Science/blob/main/python/save_imports.ipynb)|
+| Prevent Wild Imports With `all` in Python| [🔗](https://github.com/ghimiresunil/Uncovering-Insights-A-Daily-Journey-Through-the-World-of-Data-Science/blob/main/python/save_imports.ipynb)|
+| Integer Comparasion between `256` and `257` | [🔗](https://github.com/ghimiresunil/Uncovering-Insights-A-Daily-Journey-Through-the-World-of-Data-Science/blob/main/python/interger_comparision.ipynb)| 
+| Integer Comparasion between `256` and `257` | [🔗](https://github.com/ghimiresunil/Uncovering-Insights-A-Daily-Journey-Through-the-World-of-Data-Science/blob/main/python/interger_comparision.ipynb)| 
+| Make a Class Object Behave Like a Function | [🔗](https://github.com/ghimiresunil/Uncovering-Insights-A-Daily-Journey-Through-the-World-of-Data-Science/blob/main/python/class_callable.ipynb)| 
+| Feature of Pickle | [🔗](https://github.com/ghimiresunil/Uncovering-Insights-A-Daily-Journey-Through-the-World-of-Data-Science/blob/main/python/pickle_feature.ipynb)| 
+| Specify Loops and Runs In %%timeit| [🔗](https://github.com/ghimiresunil/Uncovering-Insights-A-Daily-Journey-Through-the-World-of-Data-Science/blob/main/python/loops_in_timeit.ipynb)| 
+| Don't Use `time.time()` To Measure Execution Time	| [🔗](https://github.com/ghimiresunil/Uncovering-Insights-A-Daily-Journey-Through-the-World-of-Data-Science/blob/main/python/donot_use_time_dot_time.ipynb)| 
+| Use Slotted Class to Improve Your Python Code | [🔗](https://github.com/ghimiresunil/Uncovering-Insights-A-Daily-Journey-Through-the-World-of-Data-Science/blob/main/python/slotted_class.ipynb)| 
+| Using Dictionaries In Place of If-conditions | [🔗](https://github.com/ghimiresunil/Uncovering-Insights-A-Daily-Journey-Through-the-World-of-Data-Science/blob/main/python/dict_vs_if_else.ipynb)| 
 
 # Pandas
 | Title | Notebook |

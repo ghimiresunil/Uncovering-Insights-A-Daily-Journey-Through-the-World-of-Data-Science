@@ -33,7 +33,6 @@ To download the tips listed here, you can clone this repo.
 | DotMap: A better alternative to python dictionary| [🔗](https://github.com/ghimiresunil/Uncovering-Insights-A-Daily-Journey-Through-the-World-of-Data-Science/blob/main/python/dot_map.ipynb)|
 | Prevent Wild Imports With `all` in Python| [🔗](https://github.com/ghimiresunil/Uncovering-Insights-A-Daily-Journey-Through-the-World-of-Data-Science/blob/main/python/save_imports.ipynb)|
 | Integer Comparasion between `256` and `257` | [🔗](https://github.com/ghimiresunil/Uncovering-Insights-A-Daily-Journey-Through-the-World-of-Data-Science/blob/main/python/interger_comparision.ipynb)| 
-| Integer Comparasion between `256` and `257` | [🔗](https://github.com/ghimiresunil/Uncovering-Insights-A-Daily-Journey-Through-the-World-of-Data-Science/blob/main/python/interger_comparision.ipynb)| 
 | Make a Class Object Behave Like a Function | [🔗](https://github.com/ghimiresunil/Uncovering-Insights-A-Daily-Journey-Through-the-World-of-Data-Science/blob/main/python/class_callable.ipynb)| 
 | Feature of Pickle | [🔗](https://github.com/ghimiresunil/Uncovering-Insights-A-Daily-Journey-Through-the-World-of-Data-Science/blob/main/python/pickle_feature.ipynb)| 
 | Specify Loops and Runs In %%timeit| [🔗](https://github.com/ghimiresunil/Uncovering-Insights-A-Daily-Journey-Through-the-World-of-Data-Science/blob/main/python/loops_in_timeit.ipynb)| 

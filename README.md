@@ -58,7 +58,7 @@ To download the tips listed here, you can clone this repo.
 | Introducing FugueSQL — SQL for Pandas, Spark, and Dask DataFrames | [🔗](https://github.com/ghimiresunil/Uncovering-Insights-A-Daily-Journey-Through-the-World-of-Data-Science/blob/main/pandas/fugueSQL.ipynb)|
 | Alter the Datatype of Multiple Columns at Once | [🔗](https://github.com/ghimiresunil/Uncovering-Insights-A-Daily-Journey-Through-the-World-of-Data-Science/blob/main/pandas/datatype_alter.ipynb)|
 | How to Read Multiple CSV Files Efficiently	| [🔗](https://github.com/ghimiresunil/Uncovering-Insights-A-Daily-Journey-Through-the-World-of-Data-Science/blob/main/pandas/read_multiple_csv.ipynb)|
-
+| Stop Using The Describe Method in Pandas. Instead, use Skimpy | [🔗](https://github.com/ghimiresunil/Uncovering-Insights-A-Daily-Journey-Through-the-World-of-Data-Science/blob/main/pandas/donot_use_describe_method.ipynb)|
 # Testing
 | Title | Notebook |
 |------ | :----------: |

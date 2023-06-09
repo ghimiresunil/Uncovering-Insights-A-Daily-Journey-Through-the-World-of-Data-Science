@@ -74,9 +74,6 @@ To download the tips listed here, you can clone this repo.
 | SymPy: Symbolic Computation in Python	| [🔗](https://github.com/ghimiresunil/Uncovering-Insights-A-Daily-Journey-Through-the-World-of-Data-Science/blob/main/math_tools/sympy_example.ipynb)|
 
 # ML Journey from Beginning to Advance
-| Title | Notebook |
+| Title | Resource |
 |------ | :----------: |
 | Implementation of Machine Learning Algorithm from Scratch	| [🔗](https://github.com/ghimiresunil/Implementation-of-Machine-Learning-Algorithm-from-Scratch)|
-
-
-## Will Update Soon

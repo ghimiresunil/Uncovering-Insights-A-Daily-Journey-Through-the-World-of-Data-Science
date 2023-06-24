@@ -15,6 +15,7 @@ To download the tips listed here, you can clone this repo.
 - [Pandas](#pandas) 
 - [Testing](#testing)
 - [Math Tools](#math-tools)
+- [Machine Learning](#machine-learning)
 
 # Python
 | Title | Notebook |

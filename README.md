@@ -73,6 +73,11 @@ To download the tips listed here, you can clone this repo.
 |------ | :----------: |
 | SymPy: Symbolic Computation in Python	| [🔗](https://github.com/ghimiresunil/Uncovering-Insights-A-Daily-Journey-Through-the-World-of-Data-Science/blob/main/math_tools/sympy_example.ipynb)|
 
+# Machine Learning
+| Title | Resource |
+|------ | :----------: |
+| The Limitations Of Elbow Curve And What You Should Replace It With | [🔗]([https://github.com/ghimiresunil/Implementation-of-Machine-Learning-Algorithm-from-Scratch](https://github.com/ghimiresunil/Uncovering-Insights-A-Daily-Journey-Through-the-World-of-Data-Science/blob/main/Machine%20Learning/elbow_curve_limitation.ipynb))|
+
 # ML Journey from Beginning to Advance
 | Title | Resource |
 |------ | :----------: |

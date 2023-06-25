@@ -16,6 +16,7 @@ To download the tips listed here, you can clone this repo.
 - [Testing](#testing)
 - [Math Tools](#math-tools)
 - [Machine Learning](#machine-learning)
+- [ML Journey from Beginning to Advance](#ml-journey-from-beginning-to-advance)
 
 # Python
 | Title | Notebook |

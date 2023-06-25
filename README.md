@@ -51,6 +51,8 @@ To download the tips listed here, you can clone this repo.
 # Pandas
 | Title | Notebook |
 |------ | :----------: |
+| Pandas vs Polars — Run-time and Memory Comparison	| [🔗](https://github.com/ghimiresunil/Uncovering-Insights-A-Daily-Journey-Through-the-World-of-Data-Science/blob/main/pandas/pandas_vs_polars.ipynb)|
+| Avoid This Costly Mistake When Indexing A DataFrame	| [🔗](https://github.com/ghimiresunil/Uncovering-Insights-A-Daily-Journey-Through-the-World-of-Data-Science/blob/main/pandas/pandas_correct_indexing_order.ipynb)|
 | 70x Faster Pandas By Changing Just One Line of Code	 | [🔗](https://github.com/ghimiresunil/Uncovering-Insights-A-Daily-Journey-Through-the-World-of-Data-Science/blob/main/pandas/70x_faster_pandas.ipynb)|
 | Exclude the Outliers in Pandas DataFrame| [🔗](https://github.com/ghimiresunil/Uncovering-Insights-A-Daily-Journey-Through-the-World-of-Data-Science/blob/main/pandas/4_pandas_lesser_know_tricks.ipynb)|
 | Supercharge value_counts() Method in Pandas With Sidetable| [🔗](https://github.com/ghimiresunil/Uncovering-Insights-A-Daily-Journey-Through-the-World-of-Data-Science/blob/main/pandas/better_Value_Counts-Method.ipynb)|

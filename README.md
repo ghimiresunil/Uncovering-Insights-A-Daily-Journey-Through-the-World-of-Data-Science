@@ -82,6 +82,8 @@ To download the tips listed here, you can clone this repo.
 |------ | :----------: |
 | The Limitations Of Elbow Curve And What You Should Replace It With | [🔗](https://github.com/ghimiresunil/Uncovering-Insights-A-Daily-Journey-Through-the-World-of-Data-Science/blob/main/Machine%20Learning/elbow_curve_limitation.ipynb)|
 | Try This If Your Linear Regression Model is Underperforming| [🔗](https://github.com/ghimiresunil/Uncovering-Insights-A-Daily-Journey-Through-the-World-of-Data-Science/blob/main/Machine%20Learning/data_transformation_for_normality.ipynb)|
+| Theil-Sen Regression: The Robust Twin of Linear Regression| [🔗](https://github.com/ghimiresunil/Uncovering-Insights-A-Daily-Journey-Through-the-World-of-Data-Science/blob/main/Machine%20Learning/theil-sen-regression.ipynb)|
+
 
 # ML Journey from Beginning to Advance
 | Title | Resource |

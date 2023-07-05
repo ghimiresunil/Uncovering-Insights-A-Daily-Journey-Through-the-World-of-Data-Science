@@ -66,6 +66,7 @@ To download the tips listed here, you can clone this repo.
 | Stop Using The Describe Method in Pandas. Instead, use Skimpy | [🔗](https://github.com/ghimiresunil/Uncovering-Insights-A-Daily-Journey-Through-the-World-of-Data-Science/blob/main/pandas/donot_use_describe_method.ipynb)|
 | Create Pivot Tables, Aggregations and Plots Without Any Code | [🔗](https://github.com/ghimiresunil/Uncovering-Insights-A-Daily-Journey-Through-the-World-of-Data-Science/blob/main/pandas/nocode_pivot_groupby.ipynb)|
 | Display Progress Bar With `Apply()` in Pandas | [🔗](https://github.com/ghimiresunil/Uncovering-Insights-A-Daily-Journey-Through-the-World-of-Data-Science/blob/main/pandas/display_progress_bar_with_apply.ipynb)|
+| Python OOP: Explanation and uses of magic methods| [🔗](https://github.com/ghimiresunil/Uncovering-Insights-A-Daily-Journey-Through-the-World-of-Data-Science/blob/main/python/magic_method.py)|
 
 # Testing
 | Title | Notebook |
@@ -83,11 +84,9 @@ To download the tips listed here, you can clone this repo.
 | The Limitations Of Elbow Curve And What You Should Replace It With | [🔗](https://github.com/ghimiresunil/Uncovering-Insights-A-Daily-Journey-Through-the-World-of-Data-Science/blob/main/Machine%20Learning/elbow_curve_limitation.ipynb)|
 | Try This If Your Linear Regression Model is Underperforming| [🔗](https://github.com/ghimiresunil/Uncovering-Insights-A-Daily-Journey-Through-the-World-of-Data-Science/blob/main/Machine%20Learning/data_transformation_for_normality.ipynb)|
 | Theil-Sen Regression: The Robust Twin of Linear Regression| [🔗](https://github.com/ghimiresunil/Uncovering-Insights-A-Daily-Journey-Through-the-World-of-Data-Science/blob/main/Machine%20Learning/theil-sen-regression.ipynb)|
-
+| The Limitations of PCA which many Folks Often Ignore| [🔗](https://github.com/ghimiresunil/Uncovering-Insights-A-Daily-Journey-Through-the-World-of-Data-Science/blob/main/Machine%20Learning/kernel_pca_vs_pca.ipynb)|
 
 # ML Journey from Beginning to Advance
 | Title | Resource |
 |------ | :----------: |
 | Implementation of Machine Learning Algorithm from Scratch	| [🔗](https://github.com/ghimiresunil/Implementation-of-Machine-Learning-Algorithm-from-Scratch)|
-
-## WIll UPDATE SOON

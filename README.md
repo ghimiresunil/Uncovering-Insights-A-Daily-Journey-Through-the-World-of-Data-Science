@@ -16,6 +16,7 @@ To download the tips listed here, you can clone this repo.
 - [Testing](#testing)
 - [Math Tools](#math-tools)
 - [Machine Learning](#machine-learning)
+- [Natural Language Processing](#natural-language-processing)
 - [ML Journey from Beginning to Advance](#ml-journey-from-beginning-to-advance)
 
 # Python
@@ -85,6 +86,11 @@ To download the tips listed here, you can clone this repo.
 | Try This If Your Linear Regression Model is Underperforming| [🔗](https://github.com/ghimiresunil/Uncovering-Insights-A-Daily-Journey-Through-the-World-of-Data-Science/blob/main/Machine%20Learning/data_transformation_for_normality.ipynb)|
 | Theil-Sen Regression: The Robust Twin of Linear Regression| [🔗](https://github.com/ghimiresunil/Uncovering-Insights-A-Daily-Journey-Through-the-World-of-Data-Science/blob/main/Machine%20Learning/theil-sen-regression.ipynb)|
 | The Limitations of PCA which many Folks Often Ignore| [🔗](https://github.com/ghimiresunil/Uncovering-Insights-A-Daily-Journey-Through-the-World-of-Data-Science/blob/main/Machine%20Learning/kernel_pca_vs_pca.ipynb)|
+
+# Natural Language Processing
+| Title | Notebook |
+|------ | :----------: |
+| Tokenize Tweets in Python| [🔗](https://github.com/ghimiresunil/Uncovering-Insights-A-Daily-Journey-Through-the-World-of-Data-Science/blob/main/NLP/tweets_tokenize.ipynb)|
 
 # ML Journey from Beginning to Advance
 | Title | Resource |

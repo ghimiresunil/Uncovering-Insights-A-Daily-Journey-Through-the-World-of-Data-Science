@@ -49,6 +49,7 @@ To download the tips listed here, you can clone this repo.
 | Boost Your Efficiency With Specialized Dictionary Implementations in Python	| [🔗](https://github.com/ghimiresunil/Uncovering-Insights-A-Daily-Journey-Through-the-World-of-Data-Science/blob/main/python/dictionary.ipynb)|
 | Tricks to Read, Create, and Run Multiple Files Automatically | [🔗](https://github.com/ghimiresunil/Uncovering-Insights-A-Daily-Journey-Through-the-World-of-Data-Science/blob/main/python/read_create_run.ipynb)|
 |  Practices to Make Your Python Functions More Readable | [🔗](https://github.com/ghimiresunil/Uncovering-Insights-A-Daily-Journey-Through-the-World-of-Data-Science/tree/main/python/clean_code) |
+|  Send Email using Python | [🔗](https://github.com/ghimiresunil/Uncovering-Insights-A-Daily-Journey-Through-the-World-of-Data-Science/blob/main/python/send_email.ipynb) |
 
 # Pandas
 | Title | Notebook |

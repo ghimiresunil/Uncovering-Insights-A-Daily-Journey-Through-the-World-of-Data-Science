@@ -87,6 +87,7 @@ To download the tips listed here, you can clone this repo.
 | Try This If Your Linear Regression Model is Underperforming| [🔗](https://github.com/ghimiresunil/Uncovering-Insights-A-Daily-Journey-Through-the-World-of-Data-Science/blob/main/Machine%20Learning/data_transformation_for_normality.ipynb)|
 | Theil-Sen Regression: The Robust Twin of Linear Regression| [🔗](https://github.com/ghimiresunil/Uncovering-Insights-A-Daily-Journey-Through-the-World-of-Data-Science/blob/main/Machine%20Learning/theil-sen-regression.ipynb)|
 | The Limitations of PCA which many Folks Often Ignore| [🔗](https://github.com/ghimiresunil/Uncovering-Insights-A-Daily-Journey-Through-the-World-of-Data-Science/blob/main/Machine%20Learning/kernel_pca_vs_pca.ipynb)|
+| How to encode categorical features with many categories? | [🔗](https://github.com/ghimiresunil/Uncovering-Insights-A-Daily-Journey-Through-the-World-of-Data-Science/blob/main/Machine%20Learning/categorical_encoding.ipynb)|
 
 # Natural Language Processing
 | Title | Notebook |

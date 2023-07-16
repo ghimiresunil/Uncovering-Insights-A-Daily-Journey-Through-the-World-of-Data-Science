@@ -17,6 +17,7 @@ To download the tips listed here, you can clone this repo.
 - [Math Tools](#math-tools)
 - [Machine Learning](#machine-learning)
 - [Natural Language Processing](#natural-language-processing)
+- [Statistics](#statistics)
 - [ML Journey from Beginning to Advance](#ml-journey-from-beginning-to-advance)
 
 # Python

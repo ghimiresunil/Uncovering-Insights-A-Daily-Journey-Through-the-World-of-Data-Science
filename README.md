@@ -81,6 +81,11 @@ To download the tips listed here, you can clone this repo.
 |------ | :----------: |
 | SymPy: Symbolic Computation in Python	| [🔗](https://github.com/ghimiresunil/Uncovering-Insights-A-Daily-Journey-Through-the-World-of-Data-Science/blob/main/math_tools/sympy_example.ipynb)|
 
+# Statistics
+| Title | Notebook |
+|------ | :----------: |
+| When using summary statistics, be caution before making any conclusions| [🔗](https://github.com/ghimiresunil/Uncovering-Insights-A-Daily-Journey-Through-the-World-of-Data-Science/blob/main/statistics/zero_correlation_datasets.ipynb)|
+
 # Machine Learning
 | Title | Resource |
 |------ | :----------: |
